@@ -1,1 +1,5 @@
-# DataMining Tutorial 
+# DataMining Tutorial
+
+```
+Git is cool
+```
