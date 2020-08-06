@@ -1,2 +1,2 @@
 update table 
-set column= 'ABC' 
+set column= 'ABC';
