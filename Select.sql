@@ -1,2 +1,3 @@
 SELECT  * 
-FROM    EMPLOYEE;
+FROM    EMPLOYEE
+WHERE   age > 25;
